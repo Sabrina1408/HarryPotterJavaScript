@@ -4,7 +4,7 @@
 <h2>🎯 Links</h2>
 <ul>
   <li>
-    <a href="#" target="_blank">Link do site</a>
+    <a href="https://sabrina1408.github.io/HarryPotterJavaScript/" target="_blank">Link do site</a>
     <a href="https://hp-api.onrender.com/api/characters" target="_blank">APi</a>
   </li>
   <li>
