@@ -1,0 +1,16 @@
+@media (max-width: 550px) {
+    /* Page Home */
+    main input {
+      width: 300px;
+    }
+    /* Component Card */
+    .card {
+      width: 380px;
+    }
+  }
+  @media (max-width: 430px) {
+    /* Component Card */
+    .card {
+      width: 300px;
+    }
+  }

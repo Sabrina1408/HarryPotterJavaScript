@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('main.css');
+@import url('card.css');
+@import url('medias.css');
+@font-face {
+  font-family: Harry P;
+  src: url('../fonts/HARRYP__.TTF') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+:root {
+    --white: white;
+    --input: #BAB8C9;
+    --buttonEndCard: #514A92;
+    --black: rgb(0, 0, 0);
+    --background: linear-gradient(180deg, #97102D 0%, #0B0A05 100%);
+    --font-harry: 'Harry P', 'Ibarra Real Nova';
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    border: none;
+  }
