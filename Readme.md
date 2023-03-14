@@ -9,7 +9,7 @@
   <li>
     <a href="https://hp-api.onrender.com/api/characters" target="_blank">APi</a></li>
   <li>
-    <a href="https://sabrinaalves.tk" target="_blank">Meu portfólio</a>
+    <a href="https://sabrinaalvesbrito.com.br" target="_blank">Meu portfólio</a>
   </li>
 </ul>
 <h2>👽 Status - Finalizado</h2>
