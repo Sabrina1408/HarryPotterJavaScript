@@ -27,5 +27,5 @@
 </ul>
 <h3>Ideias/Fazer</h3>
 <ul>
-  <li>Passar para react.</li>
+  <li>✔️ Passar para react (Feito em outro repositório).</li>
 </ul>
